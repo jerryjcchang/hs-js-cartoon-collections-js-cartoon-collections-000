@@ -1,3 +1,5 @@
+var dwarves = []
+
 function dwarfRollCall(dwarves) {
 }
 
